@@ -1,4 +1,4 @@
-# Data-Analysis-Guided-Projects
+# Data-Analysis-Projects
 
 This repository contains Data Analysis of different datasets using Python. You will find some other programs like git commands, APIs, and databases which I explored during the time period.
 
