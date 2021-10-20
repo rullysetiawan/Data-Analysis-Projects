@@ -5,7 +5,5 @@ This repository contains Data Analysis of different datasets using Python. You w
 - Python, Beginner to Advanced
 - Statistics, Algebra and Probability
 - Data Exploration
-- Git and Version Control
-- Web Scraping and APIs
+- Data Visualization
 - Matplotlib, Pandas, Numpy
-- Command Lines
